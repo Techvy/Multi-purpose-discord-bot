@@ -1,0 +1,14 @@
+{
+    "ticket_log_channel_id": 1277120403117969459,
+    "ticket_category_id": 1277120404670124085,
+    "ticket_title": "Create a Ticket",
+    "ticket_description": "Please select the relevant option to open a ticket. This will ensure that your issue is directed to the appropriate team for a swift resolution. Your cooperation helps us serve you better. Thank you for your patience!",
+    "ticket_thumbnail": "https://images-ext-1.discordapp.net/external/KR7VZcEJ_ekRfysyrhJiCz5c1uKIjwGMk7_zSgeZ424/%3Fformat%3Dwebp%26quality%3Dlossless%26width%3D440%26height%3D440/https/images-ext-1.discordapp.net/external/pl-J-Ki2SLWTYk8TlLzuZMFoWZmd6GLkwqfLNTTkNb8/%253Fsize%253D1024/https/cdn.discordapp.com/avatars/1263100920044978209/76de1b741261c943a35026f1e39be4f1.png?format=webp&quality=lossless&width=395&height=395",
+    "verification_channel": 1270350666803576915,
+    "verification_pass": "9999",
+    "ticket_author_text": null,
+    "ticket_author_icon_url": null,
+    "ticket_footer_icon_url": "https://images-ext-1.discordapp.net/external/KR7VZcEJ_ekRfysyrhJiCz5c1uKIjwGMk7_zSgeZ424/%3Fformat%3Dwebp%26quality%3Dlossless%26width%3D440%26height%3D440/https/images-ext-1.discordapp.net/external/pl-J-Ki2SLWTYk8TlLzuZMFoWZmd6GLkwqfLNTTkNb8/%253Fsize%253D1024/https/cdn.discordapp.com/avatars/1263100920044978209/76de1b741261c943a35026f1e39be4f1.png?format=webp&quality=lossless&width=395&height=395",
+    "ticket_image": "https://media.discordapp.net/attachments/1272067422848946237/1272214181692571648/Tickets.png?ex=66ba2949&is=66b8d7c9&hm=43db3c0ef1da70228c94c164651b740f457d5b909b50b6308db9be2fc98dea26&=&format=webp&quality=lossless&width=1024&height=255",
+    "ticket_fields": []
+}
